@@ -1,0 +1,10 @@
+Pwd – print working directory – it displays your current directory location
+Cd [loc] – change directory – allows you to move throughout your computer
+Mkdir [folder name]  -- make directory – creates a new folder in the current directory
+Ls – displays or lists the contents of the current directory
+Touch [filename] – create new life in the current directory
+Rm [filename] – deleting or removing a file
+
+Repository -- like a folder or container that stores files or folders related to a project. It keeps track of the changes made over time.
+   Local Repo- version of repository that is stored on your computers
+    Remote Repo- version of repository that is stored on a server or cloud-based platform (Github)
